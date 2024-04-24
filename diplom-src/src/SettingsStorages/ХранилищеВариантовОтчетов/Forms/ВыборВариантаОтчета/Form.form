@@ -666,7 +666,7 @@
       <name>ДеревоВариантовОтчетаКонтекстноеМеню</name>
       <id>2</id>
       <items xsi:type="form:Button">
-        <name>УдалитьКМ</name>
+        <name>УдалитьСЕК</name>
         <id>16</id>
         <title>
           <key>ru</key>
@@ -678,7 +678,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>УдалитьКМExtendedTooltip</name>
+          <name>УдалитьСЕКРасширеннаяПодсказка</name>
           <id>40</id>
           <visible>true</visible>
           <enabled>true</enabled>
@@ -703,7 +703,7 @@
         <representationInContextMenu>Auto</representationInContextMenu>
       </items>
       <items xsi:type="form:Button">
-        <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовКМ</name>
+        <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовСЕК</name>
         <id>14</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -711,7 +711,7 @@
           <common>true</common>
         </userVisible>
         <extendedTooltip>
-          <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовКМExtendedTooltip</name>
+          <name>ПоказыватьЛичныеВариантыОтчетовДругихАвторовСЕКРасширеннаяПодсказка</name>
           <id>41</id>
           <visible>true</visible>
           <enabled>true</enabled>
